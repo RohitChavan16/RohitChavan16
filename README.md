@@ -1,16 +1,21 @@
-## Hi there 👋
+## 🟩 Projects, experiments, and engineering work
 
-<!--
-**RohitChavan16/RohitChavan16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/RohitChavan16">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=999999999&color=58A6FF&center=true&vCenter=true&width=500&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0+%F0%9F%99%8F+%7C+I'm+Rohit+Chavan"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+
+
+
+
