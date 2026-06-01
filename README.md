@@ -85,7 +85,7 @@
         alt="Productivity" 
       />
       <img 
-        src="https://github-readme-streak-stats-three-rust.vercel.app?user=RohitChavan16&theme=tokyonight&hide_border=true" 
+        src="https://github-readme-streak-stats-three-rust.vercel.app?user=RohitChavan16&theme=tokyonight&hide_border=true&cache_bust=1" 
         height="170em" 
         alt="Streak" 
       />
